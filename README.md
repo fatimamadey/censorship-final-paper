@@ -1,3 +1,5 @@
+#Abril Rodriguez Almanzar, Fatima Madey
+
 # Paper Skeleton and Editing Process
 
 ## Overview
